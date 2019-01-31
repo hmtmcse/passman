@@ -1,2 +1,2 @@
-# passman
+# PassMan
 Password Manager
